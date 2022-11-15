@@ -5,10 +5,10 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Welcome to the players handbook <span style="font-weight: bold">[[Your first note]]</span>
+  [[your-first-note|Welcome to the players handbook]]
 </p>
 <style>
   .wrapper {
