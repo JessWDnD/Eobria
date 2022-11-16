@@ -1,7 +1,7 @@
 ---
-tag: type/Lore, lore/Location
+title: Obrador
 created: 2022-10-02T20:18:51+01:00
-updated: 2022-11-16T21:45:25+00:00
+updated: 2022-11-16T21:51:41+00:00
 ---
 The main city in [[Aedialan]]
 

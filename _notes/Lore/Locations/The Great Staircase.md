@@ -1,7 +1,7 @@
 ---
-tag: type/Lore, lore/Location
+title: The Great Staircase
 created: 2022-10-06T19:54:56+01:00
-updated: 2022-11-16T21:45:17+00:00
+updated: 2022-11-16T21:51:30+00:00
 ---
 The grand staircase sits through the centre of [[Obrador]], opened at each layer to allow traffic in and out is it the main traffic fairthrough for the city.  
 

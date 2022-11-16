@@ -1,7 +1,7 @@
 ---
-tag: Handbook, type/Lore, lore/Gods
+title: Dalos
 created: 2022-10-02T20:18:51+01:00
-updated: 2022-10-06T18:35:40+01:00
+updated: 2022-11-16T21:52:07+00:00
 ---
 # Dalos - The Redeemer
 
