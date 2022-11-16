@@ -1,7 +1,7 @@
 ---
 title: Aedialan
 created: 2022-10-02T20:18:51+01:00
-updated: 2022-11-16T21:42:59+00:00
+updated: 2022-11-16T21:45:38+00:00
 ---
 The region of Aedialan was settled around 850 AV by travellers gathering from across Eobria, the main city in Aedialan is the giant towering [[Obrador]] a hub for trade for the northern regions of the Veshimier.  
 
